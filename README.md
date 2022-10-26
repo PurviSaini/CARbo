@@ -55,7 +55,7 @@ A Web based project that displays various cars brands and allow user to select i
 
 To deploy this project run
 
-- Download the data set and import in MySQL 
+- Download the [Dataset](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64/resource/87fc1b5e-fafc-4d44-ac52-66656fc2a245) and import in MySQL 
 - In app.js set the password of your MySQL account
 - Then run on terminal
 ```
